@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lzLh2SexGa3D1OAx84j/9KZVvaDFWp6Y/9wsdXvzuQVhL4NDJTinZMUw+L1pH386GbR9cr7WV2SBja1Mjkm8XQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amori\\Desktop\\Repos\\C36_API_Demo\\C36_API_Demo\\C36_API_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amori\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
